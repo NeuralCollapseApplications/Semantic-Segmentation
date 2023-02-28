@@ -1,2 +1,17 @@
-# Semantic-Segmentation
-The official code for our CVPR 2023 paper "Understanding Imbalanced Semantic Segmentation Through Neural Collapse".
+# Understanding Imbalanced Semantic Segmentation Through Neural Collapse
+
+Authors: Zhisheng Zhong*, Jiequan Cui*, Yibo Yang*, Xiaoyang Wu, Xiaojuan Qi, Xiangyu Zhang, Jiaya Jia
+
+**Accepted by CVPR 2023**
+
+Our official code will be released in this [repo](https://github.com/dvlab-research/Imbalanced-Learning). Thanks for your attention!
+
+If you think our work is useful for your research, please consider citing our paper:
+```bibtex
+@inproceedings{zhong2023understanding,
+  title={Understanding Imbalanced Semantic Segmentation Through Neural Collapse},
+  author={Zhong, Zhisheng and Cui, Jiequan and Yang, Yibo and Wu, Xiaoyang and Qi, Xiaojuan and Zhang, Xiangyu and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2023}
+}
+```
